@@ -75,6 +75,7 @@ public class MainActivity<respuestas> extends AppCompatActivity implements TextT
     }
 
 
+
     private void inicializar () {
         escuchando = ( TextView ) findViewById( R.id.textView );
 
